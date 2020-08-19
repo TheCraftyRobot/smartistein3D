@@ -70,7 +70,7 @@ body  {
 	position: relative;
 	cursor: pointer;
 	overflow: hidden;
-	background: radial-gradient(#510168dd, #510168);
+	background: radial-gradient(#0000a5, #000071);
 	display: flex;
 	justify-content: center;
 	align-items: center;
